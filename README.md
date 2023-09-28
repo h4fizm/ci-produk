@@ -1,4 +1,11 @@
 <<<<<<< HEAD
+# Cara Menjankan File Project : 
+1. Gunakan LocalHost Server XAMPP untuk menjalankan server local
+2. Pastikan untuk memindahkan file ini yang sudah didownload dari git dan pindahkan ke folder htdocs
+3. Impor file database_produk.sql ke phpmyadmin untuk mengupload file database ke mysql
+4. Buka Folder Project menggunakan Terminal atau Teks Editor kemudian ketikan perintah _php spark serve_
+5. Buka Browser dan kunjungi url localhost:8080, seharusnya file project sudah bisa digunakan
+   
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
